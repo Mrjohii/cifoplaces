@@ -9,7 +9,7 @@
  * @since 0.1.0
  * @since 1.0.0 se pueden configurar las vistas de error personalizadas
  */
-   //HOl
+   
 
 /* -------------------------------------------------------------
  * AUTOLOAD
